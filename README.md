@@ -7,6 +7,11 @@
 [![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://docs.browser-use.com)
 [![WarmShao](https://img.shields.io/twitter/follow/warmshao?style=social)](https://x.com/warmshao)
 
+This is Just an Addon OF voice Command feature To the Original Version of the repo link is below ##Just Replace the WebUI.py file## in your files after you get the git of the main projects from here 
+👉👉(https://github.com/browser-use/web-ui)
+
+If you Use My repository For your youtube videos its important to give me credits for this twear by asking your viewers to Follow me on Instagram 👉👉(https://www.instagram.com/sanghvigaurav7/)
+
 This project builds upon the foundation of the [browser-use](https://github.com/browser-use/browser-use), which is designed to make websites accessible for AI agents.
 
 We would like to officially thank [WarmShao](https://github.com/warmshao) for his contribution to this project.
