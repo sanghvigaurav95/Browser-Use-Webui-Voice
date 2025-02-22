@@ -1,0 +1,10 @@
+browser-use==0.1.37
+pyperclip==1.9.0
+gradio==5.10.0
+json-repair
+langchain-mistralai==0.2.4
+gradio
+python-dotenv
+SpeechRecognition
+playwright
+langchain-ollama
